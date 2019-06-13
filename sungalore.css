@@ -1,0 +1,20 @@
+h1{
+    color: violet;
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 600;
+    border: 10px groove lightsalmon;
+}
+p {
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+header div{
+      background-image: url("img/joe-mania-227001-unsplash.jpg");
+      background-size: cover;
+      width: 100vw;
+      top: 0;
+      position: absolute;
+}
